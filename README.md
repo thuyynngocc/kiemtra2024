@@ -1,5 +1,5 @@
 # Nguyễn Lê Thuý Ngọc
-# Trần Minh Trung
+# Trần Minh Trung 123456
 Chào mừng bạn đến với trang thông tin cá nhân của Nguyễn Lê Thuý Ngọc. Tôi là một lập trình viên có kinh nghiệm và đam mê trong lĩnh vực phát triển phần mềm.
 
 ## Thông tin cá nhân
