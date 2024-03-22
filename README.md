@@ -1,6 +1,6 @@
 # Nguyễn Lê Thuý Ngọc
 
-Chào mừng bạn đến với trang thông tin cá nhân của Lê Trọng Nghĩa. Tôi là một lập trình viên có kinh nghiệm và đam mê trong lĩnh vực phát triển phần mềm.
+Chào mừng bạn đến với trang thông tin cá nhân của Nguyễn Lê Thuý Ngọc. Tôi là một lập trình viên có kinh nghiệm và đam mê trong lĩnh vực phát triển phần mềm.
 
 ## Thông tin cá nhân
 
@@ -8,8 +8,6 @@ Chào mừng bạn đến với trang thông tin cá nhân của Lê Trọng Ngh
 - **Nghề nghiệp:** Lập trình viên
 - **Email:** example@example.com
 - **Trang web:** [https://www.example.com](https://www.example.com)
-- **LinkedIn:** [https://www.linkedin.com/in/letrongnghia](https://www.linkedin.com/in/letrongnghia)
-
 ## Kỹ năng
 
 - Lập trình: Java, Python, JavaScript
